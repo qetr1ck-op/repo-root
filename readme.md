@@ -1,1 +1,1 @@
-readme to `repo-root`
+readme to `repo-a`
